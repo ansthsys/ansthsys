@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Azmiy Thufail</h1>
-<h3 align="center">Duis aute irure dolor in reprehenderit in voluptate</h3>
+<h3 align="center">Duis aute irure dolor in reprehenderit in voluptate </h3>
+<img align="right" src="https://visitcount.itsvg.in/api?id=ansthsys&label=Profile%20Views&color=1&icon=4&pretty=false" />
 
+<br>
 <br>
 
 <p align="center">
