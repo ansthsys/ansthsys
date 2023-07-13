@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">
-  <img align="left" height="400" src="https://media.tenor.com/PbPr6Bpj-6kAAAAd/bocchi-the-rock-anime.gif" />
+  <img align="left" height="390" src="https://media.tenor.com/PbPr6Bpj-6kAAAAd/bocchi-the-rock-anime.gif" />
 </p>
 <p align="center">
   <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansthsys&layout=compact" />
