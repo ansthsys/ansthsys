@@ -5,10 +5,10 @@
 <br>
 <br>
 
-<p align="center">
+<p align="left">
   <img align="left" height="280" src="https://media.tenor.com/PbPr6Bpj-6kAAAAd/bocchi-the-rock-anime.gif" />
 </p>
-<p align="center">
+<p align="right">
   <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansthsys&layout=compact" />
   <img align="right" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=ansthsys" alt="ansthsys" />
 </p>
