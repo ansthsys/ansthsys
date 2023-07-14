@@ -6,8 +6,8 @@
 <br>
 
 <p align="center">
-  <img align="left" height="280" src="https://media.tenor.com/PbPr6Bpj-6kAAAAd/bocchi-the-rock-anime.gif" />
+  <img align="left" height="270" src="https://media.tenor.com/PbPr6Bpj-6kAAAAd/bocchi-the-rock-anime.gif" />
 
-  <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansthsys&layout=compact" />
-  <img align="right" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=ansthsys" alt="ansthsys" />
+  <img align="right" width="290" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansthsys&layout=compact" />
+  <img align="right" width="290" src="https://github-readme-streak-stats.herokuapp.com/?user=ansthsys" alt="ansthsys" />
 </p>
